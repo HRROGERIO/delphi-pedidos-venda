@@ -1,0 +1,6 @@
+*.exe
+*.dcu
+*.~*
+*.identcache
+*.local
+__history/
